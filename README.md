@@ -35,6 +35,7 @@ Performing the simulations using ngspice.
 
 ## Charge Pump
 
+<img width="469" alt="8 CP cir" src="https://user-images.githubusercontent.com/72096419/108542610-f5c28d00-7309-11eb-8bed-e4b279c3425e.PNG">
 
 ## Voltage Controlled Oscillator
 
