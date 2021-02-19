@@ -39,6 +39,10 @@ Performing the simulations using ngspice.
 
 ## Voltage Controlled Oscillator
 
+<img width="231" alt="10 VCO cir" src="https://user-images.githubusercontent.com/72096419/108542627-fce99b00-7309-11eb-8fe2-0df257a3bc3d.PNG">
+
 ## Frequency Divider 
+
+<img width="472" alt="7 FD cir" src="https://user-images.githubusercontent.com/72096419/108542654-0541d600-730a-11eb-80de-e95f050caf07.PNG">
 
 
