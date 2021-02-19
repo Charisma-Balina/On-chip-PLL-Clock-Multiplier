@@ -22,6 +22,8 @@ In the sky130_Primitives file, we can find the corner.spice files of the corresp
 
 # Pre-Layout Simulations
 
+<img width="540" alt="6" src="https://user-images.githubusercontent.com/72096419/108542535-e2172680-7309-11eb-88f6-2066a3788639.PNG">
+
 Performing the simulations using ngspice.
 
 ## Phase Frequency Detector
