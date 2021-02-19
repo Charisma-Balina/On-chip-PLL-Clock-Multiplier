@@ -1,5 +1,5 @@
 # PLL-Clock-Multiplier
-Characterization of 8x PLL Clock Multiplier on Skywater 130nm **sf** process corner at room temperature.\
+Characterization of 8x PLL Clock Multiplier on Skywater 130nm **sf** process corner at room temperature.
 
 ## Phase Locked Loop Block Diagram
 
@@ -28,7 +28,13 @@ Performing the simulations using ngspice.
 
 ## Phase Frequency Detector
 
+<img width="472" alt="9 PD cir" src="https://user-images.githubusercontent.com/72096419/108542571-ec392500-7309-11eb-81c5-00d0f981273d.PNG">
+
+<img width="230" alt="9-2 zoom" src="https://user-images.githubusercontent.com/72096419/108542576-ecd1bb80-7309-11eb-9081-0497678455c2.PNG">
+
+
 ## Charge Pump
+
 
 ## Voltage Controlled Oscillator
 
