@@ -1,5 +1,8 @@
 # PLL-Clock-Multiplier
-Characterization of 8x PLL Clock Multiplier on Skywater 130nm **sf** corner at room temperature.\
+Characterization of 8x PLL Clock Multiplier on Skywater 130nm **sf** process corner at room temperature.\
+
+## Phase Locked Loop Block Diagram
+
 Cloning the Git Repo https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 <img width="546" alt="1" src="https://user-images.githubusercontent.com/72096419/108540621-6caa5680-7307-11eb-8ffc-c421e2461c45.PNG">
