@@ -30,7 +30,8 @@ Performing the simulations using ngspice.
 
 <img width="472" alt="9 PD cir" src="https://user-images.githubusercontent.com/72096419/108542571-ec392500-7309-11eb-81c5-00d0f981273d.PNG">
 
-<img width="230" alt="9-2 zoom" src="https://user-images.githubusercontent.com/72096419/108542576-ecd1bb80-7309-11eb-9081-0497678455c2.PNG">
+<img width="481" alt="9-1" src="https://user-images.githubusercontent.com/72096419/109003004-e8701e80-76cc-11eb-98ce-2df02267c7f6.PNG">
+
 
 
 ## Charge Pump
