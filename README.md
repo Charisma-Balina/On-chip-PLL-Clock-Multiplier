@@ -51,8 +51,8 @@ A charge pump is used inbetween the LPF and VCO as the output voltage generated 
 
 <img width="483" alt="10 VCO cir" src="https://user-images.githubusercontent.com/72096419/109002205-e8bbea00-76cb-11eb-9ad8-199849386c37.PNG">
 
-**Blue** = Output\ 
-**Red**  = Input
+**Red**  = Input\
+**Blue** = Output
 
 ## Frequency Divider 
 
