@@ -35,9 +35,9 @@ Performing the simulations using ngspice.
 <img width="481" alt="9-1" src="https://user-images.githubusercontent.com/72096419/109003004-e8701e80-76cc-11eb-98ce-2df02267c7f6.PNG">
 
 
-**Blue** = Clock 1
-**Red**  = Clock 2
-**Orange** = UP Signal
+**Blue** = Clock 1\
+**Red**  = Clock 2\
+**Orange** = UP Signal\
 **Green**  = DOWN Signal
 
 ## Charge Pump
@@ -51,14 +51,14 @@ A charge pump is used inbetween the LPF and VCO as the output voltage generated 
 
 <img width="483" alt="10 VCO cir" src="https://user-images.githubusercontent.com/72096419/109002205-e8bbea00-76cb-11eb-9ad8-199849386c37.PNG">
 
-**Blue** = Output 
+**Blue** = Output\ 
 **Red**  = Input
 
 ## Frequency Divider 
 
 <img width="472" alt="7 FD cir" src="https://user-images.githubusercontent.com/72096419/108542654-0541d600-730a-11eb-80de-e95f050caf07.PNG">
 
-**Blue** = Input Clock
+**Blue** = Input Clock\
 **Red**  = Output Clock
 
 
