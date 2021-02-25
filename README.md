@@ -3,6 +3,8 @@ Characterization of 8x PLL Clock Multiplier on Skywater 130nm **sf** process cor
 
 ## Phase Locked Loop Block Diagram
 
+The phase-locked loop (PLL) block is a feedback control system that automatically adjusts the phase of a locally generated signal to match the phase of an input signal.
+
 <img width="454" alt="pll" src="https://user-images.githubusercontent.com/72096419/108541874-0292b100-7309-11eb-9251-c46aa69c5b5f.PNG">
 
 Cloning the Git Repo https://github.com/lakshmi-sathi/avsdpll_1v8.git
