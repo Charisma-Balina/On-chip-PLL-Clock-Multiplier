@@ -72,9 +72,24 @@ Command: ngspice FD.cir
 
 Command: ngspice PLL_PreLay.cir
 
+![4](https://user-images.githubusercontent.com/72096419/110016846-873eef80-7d4b-11eb-80fa-3f564f6ef4e6.jpeg)
+
+Changing the transient time values
+
+<img width="471" alt="tran1" src="https://user-images.githubusercontent.com/72096419/110016854-88701c80-7d4b-11eb-92f1-0060a7a2aa56.PNG">
+
+<img width="471" alt="tran2" src="https://user-images.githubusercontent.com/72096419/110016855-8908b300-7d4b-11eb-8482-99e3fc2ec005.PNG">
+
+### Output
+
+![0](https://user-images.githubusercontent.com/72096419/110016857-8908b300-7d4b-11eb-9ff3-8c7627d728a2.png)
+
+![1](https://user-images.githubusercontent.com/72096419/110016859-89a14980-7d4b-11eb-8e4c-b026f03f6714.jpeg)
 
 
-Increasing the transient time :  tran 140us 600us
+
+
+
 
 
 
