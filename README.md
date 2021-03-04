@@ -68,4 +68,13 @@ Command: ngspice FD.cir
 **Blue** = Input Clock\
 **Red**  = Output Clock
 
+## PLL OUTPUT
+
+Command: ngspice PLL_PreLay.cir
+
+
+
+Increasing the transient time :  tran 140us 600us
+
+
 
