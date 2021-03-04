@@ -25,7 +25,7 @@ v1 Clk_Ref 0 PULSE 0 1.8 0 6ps 6ps 40ns 80ns
 .ic v(Clk_Out_by_4) = 1.8
 .ic v(Clk_Out_by_8) = 0
 .control
-tran 0.1ns 180us
+tran 140us 600us
 plot v(Clk_Ref) v(Clk_Out_by_8) v(Clk_Out_by_4)+2 v(Clk_Out_by_2)+4 v(Clk_Out)+6 v(up)+8 v(down)+10 v(VCtrl)+12
 .endc
 
