@@ -86,7 +86,12 @@ Changing the transient time values
 
 ![4](https://user-images.githubusercontent.com/72096419/110016846-873eef80-7d4b-11eb-80fa-3f564f6ef4e6.jpeg)
 
-
+# LAYOUT
+## PFD
+## CP
+## VCO
+## FD
+## MUX
 
 
 
