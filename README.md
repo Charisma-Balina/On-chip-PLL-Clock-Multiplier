@@ -88,10 +88,29 @@ Changing the transient time values
 
 # LAYOUT
 ## PFD
+Command: magic -T sky130.tech PFD.mag
+<img width="402" alt="PFD" src="https://user-images.githubusercontent.com/72096419/110166398-4c57bd00-7e1a-11eb-9813-b8637bfa8b32.PNG">
+
 ## CP
+Command: magic -T sky130.tech CP.mag
+<img width="373" alt="CP" src="https://user-images.githubusercontent.com/72096419/110166427-58437f00-7e1a-11eb-803f-9d7c82b5c02a.PNG">
+
 ## VCO
+Command: magic -T sky130.tech VCO.mag
+<img width="381" alt="VCO" src="https://user-images.githubusercontent.com/72096419/110166461-66919b00-7e1a-11eb-98e4-9318618dc7a6.PNG">
+
 ## FD
+Command: magic -T sky130.tech FD.mag
+<img width="365" alt="FD" src="https://user-images.githubusercontent.com/72096419/110166498-77421100-7e1a-11eb-81fc-7d4a393886e8.PNG">
+
 ## MUX
+Command: magic -T sky130.tech MUX.mag
+<img width="378" alt="MUX" src="https://user-images.githubusercontent.com/72096419/110166530-86c15a00-7e1a-11eb-83af-a0b9fd11ba8a.PNG">
+
+## PLL
+Command: magic -T sky130.tech PLL.mag
+<img width="395" alt="PLL" src="https://user-images.githubusercontent.com/72096419/110166589-99d42a00-7e1a-11eb-8d59-85a3758ea9c7.PNG">
+
 
 
 
