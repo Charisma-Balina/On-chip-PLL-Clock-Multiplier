@@ -80,6 +80,9 @@ Changing the transient time values
 
 <img width="471" alt="tran2" src="https://user-images.githubusercontent.com/72096419/110016855-8908b300-7d4b-11eb-8482-99e3fc2ec005.PNG">
 
+![5](https://user-images.githubusercontent.com/72096419/110195070-c0698380-7e61-11eb-8af6-90b38fb5a629.jpeg)
+
+
 ### Output
 
 ![1](https://user-images.githubusercontent.com/72096419/110016859-89a14980-7d4b-11eb-8e4c-b026f03f6714.jpeg)
