@@ -76,51 +76,10 @@ Command: ngspice PLL_PreLay.cir
 
 Changing the transient time values
 
-<img width="471" alt="tran1" src="https://user-images.githubusercontent.com/72096419/110016854-88701c80-7d4b-11eb-92f1-0060a7a2aa56.PNG">
-
-<img width="471" alt="tran2" src="https://user-images.githubusercontent.com/72096419/110016855-8908b300-7d4b-11eb-8482-99e3fc2ec005.PNG">
+180us to 450us
 
 
 ### Output
-
-![1](https://user-images.githubusercontent.com/72096419/110016859-89a14980-7d4b-11eb-8e4c-b026f03f6714.jpeg)
-
-![4](https://user-images.githubusercontent.com/72096419/110016846-873eef80-7d4b-11eb-80fa-3f564f6ef4e6.jpeg)
-
-![5](https://user-images.githubusercontent.com/72096419/110195070-c0698380-7e61-11eb-8af6-90b38fb5a629.jpeg)
-
-
-# LAYOUT
-## PFD
-Command: magic -T sky130.tech PFD.mag & <br />
-
-<img width="402" alt="PFD" src="https://user-images.githubusercontent.com/72096419/110166398-4c57bd00-7e1a-11eb-9813-b8637bfa8b32.PNG">
-
-## CP
-Command: magic -T sky130.tech CP.mag & <br />
-
-<img width="373" alt="CP" src="https://user-images.githubusercontent.com/72096419/110166427-58437f00-7e1a-11eb-803f-9d7c82b5c02a.PNG">
-
-## VCO
-Command: magic -T sky130.tech VCO.mag & <br />
-
-<img width="381" alt="VCO" src="https://user-images.githubusercontent.com/72096419/110166461-66919b00-7e1a-11eb-98e4-9318618dc7a6.PNG">
-
-## FD
-Command: magic -T sky130.tech FD.mag & <br />
-
-<img width="365" alt="FD" src="https://user-images.githubusercontent.com/72096419/110166498-77421100-7e1a-11eb-81fc-7d4a393886e8.PNG">
-
-## MUX
-Command: magic -T sky130.tech MUX.mag & <br />
-
-<img width="378" alt="MUX" src="https://user-images.githubusercontent.com/72096419/110166530-86c15a00-7e1a-11eb-83af-a0b9fd11ba8a.PNG">
-
-## PLL
-Command: magic -T sky130.tech PLL.mag & <br />
-
-<img width="395" alt="PLL" src="https://user-images.githubusercontent.com/72096419/110166589-99d42a00-7e1a-11eb-8d59-85a3758ea9c7.PNG">
-
 
 
 
