@@ -72,16 +72,7 @@ Command: ngspice FD.cir
 
 Command: ngspice PLL_PreLay.cir
 
-![0](https://user-images.githubusercontent.com/72096419/110016857-8908b300-7d4b-11eb-9ff3-8c7627d728a2.png)
-
-Changing the transient time values
-
-180us to 450us
-
-
-### Output
-
-F<sub>CLKREF</sub> = 12.5 Mhz
+### Output for F<sub>CLKREF</sub> = 12.5 Mhz
 
 <img width="689" alt="3" src="https://user-images.githubusercontent.com/72096419/110527745-5a208180-813d-11eb-8ce9-e98c2e171899.PNG">
 
