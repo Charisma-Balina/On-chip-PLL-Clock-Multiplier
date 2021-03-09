@@ -81,6 +81,13 @@ Changing the transient time values
 
 ### Output
 
+<img width="689" alt="3" src="https://user-images.githubusercontent.com/72096419/110527745-5a208180-813d-11eb-8ce9-e98c2e171899.PNG">
+
+<img width="684" alt="9" src="https://user-images.githubusercontent.com/72096419/110527758-5bea4500-813d-11eb-8bae-671a262cdb32.PNG">
+
+<img width="681" alt="11" src="https://user-images.githubusercontent.com/72096419/110527762-5d1b7200-813d-11eb-8e44-4a112434da96.PNG">
+
+
 
 
 
