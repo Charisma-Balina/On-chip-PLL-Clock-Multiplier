@@ -30,7 +30,10 @@ Performing the simulations using ngspice at temperature T=27C
 
 ## Phase Frequency Detector
 
+<div class= "bg-blue-light>
+
 Command: ngspice PD.cir
+</div>
 
 <img width="472" alt="9 PD cir" src="https://user-images.githubusercontent.com/72096419/108542571-ec392500-7309-11eb-81c5-00d0f981273d.PNG">
 
