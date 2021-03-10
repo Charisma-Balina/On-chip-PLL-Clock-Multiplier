@@ -30,7 +30,7 @@ Performing the simulations using ngspice at temperature T=27C
 
 ## Phase Frequency Detector
 
-```Command: ngspice PD.cir```
+```ngspice PD.cir```
 
 <img width="472" alt="9 PD cir" src="https://user-images.githubusercontent.com/72096419/108542571-ec392500-7309-11eb-81c5-00d0f981273d.PNG">
 
@@ -44,7 +44,7 @@ Performing the simulations using ngspice at temperature T=27C
 
 ## Charge Pump
 
-Command: ngspice CP.cir
+```ngspice CP.cir```
 
 <img width="469" alt="8 CP cir" src="https://user-images.githubusercontent.com/72096419/108542610-f5c28d00-7309-11eb-8bed-e4b279c3425e.PNG">
 
@@ -63,7 +63,7 @@ Command: ngspice VCO.cir
 
 ## Frequency Divider 
 
-Command: ngspice FD.cir
+```ngspice FD.cir```
 
 <img width="472" alt="7 FD cir" src="https://user-images.githubusercontent.com/72096419/108542654-0541d600-730a-11eb-80de-e95f050caf07.PNG">
 
@@ -72,7 +72,7 @@ Command: ngspice FD.cir
 
 ## PLL OUTPUT
 
-Command: ngspice PLL_PreLay.cir
+```ngspice PLL_PreLay.cir```
 
 ### Output for F<sub>CLKREF</sub> = 12.5 Mhz
 
