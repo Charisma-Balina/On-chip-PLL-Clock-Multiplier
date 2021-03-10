@@ -82,7 +82,6 @@ Command: ngspice VCO.cir
 
 <img width="681" alt="11" src="https://user-images.githubusercontent.com/72096419/110527762-5d1b7200-813d-11eb-8e44-4a112434da96.PNG">
 
-<img width="687" alt="5" src="https://user-images.githubusercontent.com/72096419/110530941-fef08e00-8140-11eb-874b-d0a25589e9ed.PNG">
 
 
 
