@@ -52,7 +52,9 @@ Command: ngspice CP.cir
 
 ## Voltage Controlled Oscillator
 
+<div class= "bg-blue-light>
 Command: ngspice VCO.cir
+             </div>
 
 <img width="483" alt="10 VCO cir" src="https://user-images.githubusercontent.com/72096419/109002205-e8bbea00-76cb-11eb-9ad8-199849386c37.PNG">
 
