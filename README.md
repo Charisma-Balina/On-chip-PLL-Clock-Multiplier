@@ -82,23 +82,6 @@ Command: ngspice VCO.cir
 
 <img width="681" alt="11" src="https://user-images.githubusercontent.com/72096419/110527762-5d1b7200-813d-11eb-8e44-4a112434da96.PNG">
 
-## LAYOUT
-### PFD
-
-<img width="402" alt="PFD" src="https://user-images.githubusercontent.com/72096419/111857012-b14ffe80-8954-11eb-94d8-38be7a2b2346.PNG">
-
-### CP
-
-<img width="373" alt="CP" src="https://user-images.githubusercontent.com/72096419/111857028-c88eec00-8954-11eb-8971-f014235bd76b.PNG">
-
-### VCO
-
-<img width="381" alt="VCO" src="https://user-images.githubusercontent.com/72096419/111857044-da708f00-8954-11eb-88bb-72ad9e1e5851.PNG">
-
-### FD
-
-<img width="365" alt="FD" src="https://user-images.githubusercontent.com/72096419/111857051-e78d7e00-8954-11eb-8068-a22c225fb59a.PNG">
-
 
 
 
