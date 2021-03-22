@@ -82,7 +82,11 @@ Command: ngspice VCO.cir
 
 <img width="681" alt="11" src="https://user-images.githubusercontent.com/72096419/110527762-5d1b7200-813d-11eb-8e44-4a112434da96.PNG">
 
+# Future Work
+Figuring out the proper width of the transistors in order to match the input frequency.
 
+# Acknowledgement
+The PLL design is taken from https://github.com/lakshmi-sathi/avsdpll_1v8.git
 
 
 
